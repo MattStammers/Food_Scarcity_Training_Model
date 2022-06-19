@@ -1,5 +1,5 @@
 
-# Matt Stammers Screwing around with Stellar and Python
+# Matt Stammers recreation of the food model using BPTK
 # 02/05/2022
     
 import numpy as np
